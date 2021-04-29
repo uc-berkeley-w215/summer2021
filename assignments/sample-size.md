@@ -8,7 +8,6 @@ The student researchers choose four possible words that describe the safe option
 
 Using online participants and gratuities, the students are able to run the study at a cost of $5 per participant.
 
-<!-- TODO: Change these values slightly each semester -->
 Assume that 50% of participants will typically choose the safe option, and our student researchers believe a really great pair of adjectives could improve the proportion who choose the safe option to 60% (an impressive 10% increase over the 50 percentage point baseline).
 
 How many participants and what budget would be required for the student researchers to have a 50% chance of seeing an effect that yields p\<=0.05 using a chi-square test, if they indeed are correct that there is an adjective that cause 60% of participants to take the safe option? (The simplest case is a single adjective having an impact and all of the others having no impact, as you don’t need to make any assumptions about the two individual contributions combined.)

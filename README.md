@@ -10,8 +10,7 @@
 
 ### Slack channel
 
-  - [**ucbischool**](https://ucbischool.slack.com), channel #w215-\[semester\]-2020.
-<!-- TODO: Date -->
+  - [**ucbischool**](https://ucbischool.slack.com), channel #w215-summer-2021.
 
 ### Instructors
 
@@ -116,8 +115,6 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
 
 
 # [Schedule](/schedule)
-
-<!-- TODO: Dates -->
 
  - [Unit 1: Human–Computer Interaction](./schedule/unit-01.md) (*May 4*)
  - [Unit 2: Studying Decision making](./schedule/unit-02.md) (*May 11*)

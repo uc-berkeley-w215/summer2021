@@ -110,7 +110,7 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
 
 ## Textbook
 
-(Required) *Research Methods in Human-Computer Interaction, 2nd edition* by Lazar, Feng, and Hochheiser.  Available in print or online through the UCB Library.
+(Required) *Research Methods in Human-Computer Interaction, 2nd edition* by Lazar, Feng, and Hochheiser.  Available in print or [online through the UCB Library](https://search.ebscohost.com/login.aspx?direct=true&db=cat04202a&AN=ucb.b24003164&site=eds-live&authtype=ip,guest&custid=s1226370&groupid=main&profile=eds).
 
 
 

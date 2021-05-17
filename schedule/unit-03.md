@@ -4,7 +4,7 @@
 
   - Lazar et al., Chapter 3 Experimental Design
   - Lazar et al., Chapter 10 Usability Testing
-  - [The Emperor’s New Security Indicators: An Evaluation of Website Authentication and the Effect of Role Playing on Usability Studies](http://commerce.net/wp-content/uploads/2012/04/The%20Emperors_New_Security_Indicators.pdf), by Schechter et al.
+  - [The Emperor’s New Security Indicators: An Evaluation of Website Authentication and the Effect of Role Playing on Usability Studies](http://commerce.net/wp-content/uploads/2012/04/The%20Emperors_New_Security_Indicators.pdf), by Schechter et al. **Discussion lead: Alex Guglielmetti**
   - Read one of the final project papers from the previous term's W215 students.
 
 

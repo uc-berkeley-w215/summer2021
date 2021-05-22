@@ -14,8 +14,8 @@
 
 ### Instructors
 
- -  Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
  -  Saranga Komanduri, komanduri \<a\> berkeley.edu
+ -  Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
 
 ### Course Lead
 

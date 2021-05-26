@@ -23,5 +23,5 @@
 ### Synchronous discussion agenda
 
   - Discuss statistical concepts and sample size assignment and its implications for projects (45 minutes)
-  - Readings (10-minutes each), note problem/hypothesis statements (10 minutes per paper, plus 5 minutes of discussion)
+  - Readings, note problem/hypothesis statements (10 minutes per paper, plus 5 minutes of discussion)
   - Further description of course projects (remaining time)

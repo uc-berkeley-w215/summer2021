@@ -3,7 +3,8 @@
 ### Readings due
 
   - Lazar et al., Chapter 11 Analyzing Qualitative Data
-  - [No One Can Hack My Mind](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo.
+  - [No One Can Hack My Mind](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo. **Discussion lead: 
+Janani Sridhar**
   - [The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf), by Bonneau et al.
 
 

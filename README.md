@@ -34,6 +34,7 @@ When computers first came into prominence, security problems were mostly thought
 
 As you will learn in this course, despite the fact that many security problems are caused by human error, in most cases, the users aren’t to blame. Many security problems exist because software is simply *unusable*; when software engineers fail to account for the abilities and expectations of their users, those users will make preventable errors. Security and privacy systems can be made more usable by designing them with the user in mind, from the ground up. In this course, you will learn many of the common pitfalls of designing usable privacy and security systems, techniques for designing more usable systems, and how to evaluate privacy and security systems for usability. Through this course you will learn methods for designing software systems that are more secure because they minimize the potential for human error.
 
+You will also learn how to read and evaluate research papers, the limitations of statistics, and how to design and conduct your own usable privacy and security studies.  Many of the methods in usable privacy and security were validated through research, and our understanding of the field is constantly evolving.
 
 
 ## Prerequisites

@@ -103,7 +103,7 @@ Reading and understanding research papers is one of the fundamental skills you w
 
 **It is your responsibility to go through the syllabus and notify the instructors of which papers you would like to lead.**  You are required to lead the discussion of 2-3 papers of your choice (the exact number depends on course enrollment).  In the second half of the class, the readings in the syllabus might be replaced with other readings that serve as important background for your projects.  With instructor approval, you can substitute any of the papers in the syllabus with a paper of your choice.  The instructors might also recommend papers that they believe will be helpful or interesting to you.
 
-Paper assignments will be filled on a first-come, first-served basis, so we recommend selecting your papers as soon as possible.
+Paper assignments will be filled on a first-come, first-served basis, so we recommend selecting your papers as soon as possible.  For each paper, you should notify the instructors at least one week in advance of when you plan to present.
 
 When it’s your turn to lead the 10-15 minute discussion of the paper, you'll want to read the guidelines on [leading paper discussions](/leading-paper-discussions.md).
 

@@ -33,5 +33,4 @@ Therefore, when you are pitching projects ideas, put 80% of your effort into wri
 
   - Individuals to present project ideas.
 
-  - Students to split off into groups to discuss proposed ideas in depth.
 

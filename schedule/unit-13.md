@@ -2,9 +2,7 @@
 
 ### Readings to be presented
 
-Readings to be presented will appear here. Please send a message to your instructors to let them know which paper you will present.
-
-
+  - [Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. (2012) **Discussion lead: Robby Boparai**
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
@@ -16,7 +14,6 @@ Readings to be presented will appear here. Please send a message to your instruc
 ### Optional readings (if you're really interested in this topic)
 
   - [User Interfaces for Privacy Agents](http://lorrie.cranor.org/pubs/privacy-bird-20050714.pdf), by Cranor et al. (2006)
-  - [Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. (2012)
 
 
 ### Assignments due

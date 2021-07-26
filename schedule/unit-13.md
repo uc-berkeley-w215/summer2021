@@ -3,11 +3,11 @@
 ### Readings to be presented
 
   - [Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. (2012) **Discussion lead: Robby Boparai**
+  - [Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab09014.pdf), by Kelley et al. (2010) **Discussion lead: Ryan Shultz**
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
   - [A Comparative Study of Online Privacy Policies and Formats](http://lorrie.cranor.org/pubs/authors-version-PETS-formats.pdf), by McDonald et al. (2009)
-  - [Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab09014.pdf), by Kelley et al. (2010)
   - [What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?](http://www.blaseur.com/papers/wpes2012-obaicons.pdf), by León et al. (2012)
 
 
